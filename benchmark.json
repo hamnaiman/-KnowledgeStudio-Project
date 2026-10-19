@@ -1,0 +1,7 @@
+[
+  {"question":"What are Python variables?","reference":"A variable is a name that refers to a value. Assignment creates or changes its binding; Python infers the value's type."},
+  {"question":"Explain the difference between a list and a tuple.","reference":"Both are ordered collections. Lists use square brackets and are mutable; tuples use parentheses and are immutable. Both support indexing and duplicates."},
+  {"question":"What does range(1, 6) produce in a for loop?","reference":"It produces 1, 2, 3, 4 and 5. The stop value 6 is excluded."},
+  {"question":"How is return different from print() inside a function?","reference":"return sends a value to the caller and ends the function call; print displays output. A function without an explicit return value returns None."},
+  {"question":"When do if, elif and else blocks run?","reference":"if runs when its condition is true; elif checks another condition if earlier branches were false; else runs if no earlier condition was true. Only the first matching branch executes."}
+]

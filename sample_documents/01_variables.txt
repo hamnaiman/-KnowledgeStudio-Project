@@ -1,0 +1,5 @@
+Python Variables and Types
+
+A Python variable is a name that refers to a value. Use assignment to bind a name to a value, such as age = 20. Python infers the type from the assigned value; the programmer does not need to declare it. The same variable can later refer to a different value. Variable names are case-sensitive and cannot start with a digit.
+
+An int stores whole numbers, float stores decimal numbers, str stores text and bool stores True or False. type(value) returns the value's type. int(), float() and str() convert compatible values. Assignment with = is different from equality comparison with ==.
